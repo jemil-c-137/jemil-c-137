@@ -47,7 +47,7 @@ pss... click to check 👇
 
 
 
-[profile]: https://gitgub.com/jemil-c-137
+[profile]: https://github.com/jemil-c-137
 [instagram]: https://instagram.com/i_am_jemil
 [linkedin]: https://www.linkedin.com/in/jemil-suleimanov-559852116/
 [vk]: https://vk.com/i_am_jemil
