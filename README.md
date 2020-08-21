@@ -15,7 +15,9 @@
   * I've used React for UI and Redux for a state-managment.
 - 🃏 [Guess the Bug card game](https://codesandbox.io/s/goofy-torvalds-ch1cz), Here is the code: [GitHUB](https://github.com/jemil-c-137/Card-Game)
   - I've used vanilla JavaScript ES6 syntax
-
+- 🚗 [Adaptive Tesla website (studying project)](https://codesandbox.io/s/gallant-rosalind-v09yh), Here is the code: [GitHUB](https://github.com/jemil-c-137/tesla)
+  - HTML and CSS
+  - Someone show this to Elon 
 ### Languages and Tools I'm using:
 pss... click to check 👇
 
