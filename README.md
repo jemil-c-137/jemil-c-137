@@ -11,14 +11,14 @@
 - 🔭 Secretly dreaming that Elon Musk will take us to  Mars
 
 ## My last projects:
-- 👽 [Rick and Morty Memory Card Game](https://codesandbox.io/s/gifted-mclean-ly2mo), Here is the code: [GitHUB](https://github.com/jemil-c-137/react-cards)
+- 👽 [Rick and Morty Memory Card Game](https://codesandbox.io/s/gifted-mclean-ly2mo), Here is the code: [GitHub](https://github.com/jemil-c-137/react-cards)
   * I've used React for UI and Redux for a state-managment.
-- 🃏 [Guess the Bug card game](https://codesandbox.io/s/goofy-torvalds-ch1cz), Here is the code: [GitHUB](https://github.com/jemil-c-137/Card-Game)
+- 🃏 [Guess the Bug card game](https://codesandbox.io/s/goofy-torvalds-ch1cz), Here is the code: [GitHub](https://github.com/jemil-c-137/Card-Game)
   - I've used vanilla JavaScript ES6 syntax
-- 🚗 [Adaptive Tesla website (studying project)](https://codesandbox.io/s/gallant-rosalind-v09yh), Here is the code: [GitHUB](https://github.com/jemil-c-137/tesla)
+- 🚗 [Adaptive Tesla website (studying project)](https://codesandbox.io/s/gallant-rosalind-v09yh), Here is the code: [GitHub](https://github.com/jemil-c-137/tesla)
   - HTML and CSS
   - Someone show this to Elon 
-- 🔌 [Litle Fetch API learning project](https://codesandbox.io/s/spring-pond-mschx), Here is the code: [GitHUB](https://github.com/jemil-c-137/fetch)
+- 🔌 [Litle Fetch API learning project](https://codesandbox.io/s/spring-pond-mschx), Here is the code: [GitHub](https://github.com/jemil-c-137/fetch)
   - HTML/CSS and JavaScript
 ### Languages and Tools I'm using:
 pss... click to check 👇
