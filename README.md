@@ -10,7 +10,8 @@
 - 👨‍💻 I have interests in: technologies, science, space, sci-fi, travel, videoediting and movies
 - 🔭 Secretly dreaming that Elon Musk will take us to  Mars
 
-
+## My last projects:
+[Rick and Morty Memory Card Game](https://codesandbox.io/s/gifted-mclean-ly2mo) I've used React for UI and Redux for a state-managment, code here: [GitHUB](https://github.com/jemil-c-137/react-cards)
 
 ### Languages and Tools I'm using:
 pss... click to check 👇
