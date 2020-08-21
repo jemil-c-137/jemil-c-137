@@ -18,6 +18,8 @@
 - 🚗 [Adaptive Tesla website (studying project)](https://codesandbox.io/s/gallant-rosalind-v09yh), Here is the code: [GitHUB](https://github.com/jemil-c-137/tesla)
   - HTML and CSS
   - Someone show this to Elon 
+- 🔌 [Litle Fetch API learning project](https://codesandbox.io/s/spring-pond-mschx), Here is the code: [GitHUB](https://github.com/jemil-c-137/fetch)
+  - HTML/CSS and JavaScript
 ### Languages and Tools I'm using:
 pss... click to check 👇
 
