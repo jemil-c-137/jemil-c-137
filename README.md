@@ -1,15 +1,4 @@
 # Hi there, I'm Jemil 👋
-<!--START_SECTION:waka-->
-```text
-## My coding time during last week 💻
-JavaScript   9 hrs 17 mins   ██████████████▓░░░░░░░░░░   58.50 % 
-CSS          4 hrs 42 mins   ███████▒░░░░░░░░░░░░░░░░░   29.60 % 
-HTML         58 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
-SCSS         30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
-JSON         24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
-```
-<!--END_SECTION:waka-->
-
 ## I'm a Junior Front-end Developer!
 
 - 🚀 I’m actively studying Web Dev, all the time that i have!
@@ -29,6 +18,19 @@ JSON         24 mins         ▓░░░░░░░░░░░░░░░░
   - Someone show this to Elon 
 - 🔌 [Litle Fetch API learning project](https://codesandbox.io/s/spring-pond-mschx), Here is the code: [GitHub](https://github.com/jemil-c-137/fetch)
   - HTML/CSS and **JavaScript**
+  
+
+## My coding time during last week 💻
+<!--START_SECTION:waka-->
+```text
+
+JavaScript   9 hrs 17 mins   ██████████████▓░░░░░░░░░░   58.50 % 
+CSS          4 hrs 42 mins   ███████▒░░░░░░░░░░░░░░░░░   29.60 % 
+HTML         58 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+SCSS         30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+JSON         24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+```
+<!--END_SECTION:waka-->
 ### Languages and Tools I'm using:
 pss... click to check 👇
 
