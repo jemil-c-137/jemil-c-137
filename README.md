@@ -1,5 +1,5 @@
 # Hi there, I'm Jemil 👋
-
+[<img align="left" alt="HTML5" width="26px" src="https://wakatime.com/share/@b83882e7-b62a-4abf-a990-1528a7944455/f46cd047-f16e-4c03-8156-9e592e948f0c.svg" />][siteLayout]
 
 ## I'm a Junior Front-end Developer!
 
