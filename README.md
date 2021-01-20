@@ -15,7 +15,8 @@
   - I've used vanilla **JavaScript** ES6 syntax
 - 🚗 [Adaptive Tesla website (studying project)](https://codesandbox.io/s/gallant-rosalind-v09yh), Here is the code: [GitHub](https://github.com/jemil-c-137/tesla)
   - **HTML** and **CSS**
-  - Someone show this to Elon 
+- 💎 [Crystals project created using SASS and Swiper JS for slider](https://jemil-c-137.github.io), Here is the code: [GitHub](https://github.com/jemil-c-137/crystals)
+  - **SASS** and **Swiper JS**
 - 🔌 [Litle Fetch API learning project](https://codesandbox.io/s/spring-pond-mschx), Here is the code: [GitHub](https://github.com/jemil-c-137/fetch)
   - HTML/CSS and **JavaScript**
   
@@ -35,6 +36,7 @@ pss... click to check 👇
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][siteLayout]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][siteLayout]
+[<img align="left" alt="CSS3" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/288_Sass-512.png" />][siteLayout]
 
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsProject]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactRedux]
@@ -71,6 +73,7 @@ pss... click to check 👇
 [vk]: https://vk.com/i_am_jemil
 [telegram]: https://t.me/i_am_jemil
 [siteLayout]: https://codesandbox.io/s/gallant-rosalind-v09yh
+[sassLayout]: https://jemil-c-137.github.io
 [jsProject]: https://codesandbox.io/s/goofy-torvalds-ch1cz
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactRedux]: https://codesandbox.io/s/gifted-mclean-ly2mo
