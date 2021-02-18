@@ -1,13 +1,6 @@
 # Hi there, I'm Jemil 👋
 ## I'm a Junior Front-end Developer!
 
-- 🚀 I’m actively studying Web Dev, all the time that i have!
-- 🌍 I want to be a part of great projects
-- 🐝 I like to work in team
-- 💪 I have a great desire to work and develop in the front-end technologies
-- 👨‍💻 I have interests in: technologies, science, space, sci-fi, travel, videoediting and movies
-- 🔭 Secretly dreaming that Elon Musk will take us to  Mars
-
 ## My last projects:
 - 👽 [Rick and Morty Memory Card Game](https://codesandbox.io/s/gifted-mclean-ly2mo), Here is the code: [GitHub](https://github.com/jemil-c-137/react-cards)
   * I've used **React** for UI and **Redux** for a state-managment.
