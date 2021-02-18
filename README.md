@@ -7,14 +7,14 @@
   * I've used **React** for UI and **Redux** for a state-managment.
 - [React Carousel(Slider) Component](https://jemil-c-137.github.io/carousel/), Here is the code: [GitHub](https://github.com/jemil-c-137/carousel)
   * React, configured Webpack
+  ### JavaScript
 - 🃏 [Guess the Bug card game](https://codesandbox.io/s/goofy-torvalds-ch1cz), Here is the code: [GitHub](https://github.com/jemil-c-137/Card-Game)
   - I've used vanilla **JavaScript** ES6 syntax
+  ### HTML/CSS layouts
 - 🚗 [Adaptive Tesla website (studying project)](https://codesandbox.io/s/gallant-rosalind-v09yh), Here is the code: [GitHub](https://github.com/jemil-c-137/tesla)
   - **HTML** and **CSS**
 - 💎 [Crystals project created using SASS and Swiper JS for slider](https://jemil-c-137.github.io), Here is the code: [GitHub](https://github.com/jemil-c-137/crystals)
   - **SASS** and **Swiper JS**
-- 🔌 [Litle Fetch API learning project](https://codesandbox.io/s/spring-pond-mschx), Here is the code: [GitHub](https://github.com/jemil-c-137/fetch)
-  - HTML/CSS and **JavaScript**
   
 
 ## My coding time during last week 💻
