@@ -19,14 +19,7 @@
   - **SASS** and **Swiper JS**
   
 
-## My coding time during last week 💻
-<!--START_SECTION:waka-->
-```text
-TypeScript   36 mins         ████████████▒░░░░░░░░░░░░   49.93 % 
-JavaScript   32 mins         ███████████▒░░░░░░░░░░░░░   45.24 % 
-HTML         3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
-```
-<!--END_SECTION:waka-->
+
 ### Languages and Tools I'm using:
 pss... click to check 👇
 
