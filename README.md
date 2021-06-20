@@ -10,7 +10,7 @@
 - ⏩[Youtube videos seach) Component](https://github.com/jemil-c-137/sidbevYoutube)
   * React, Redux, Axios, Node(mock server), Ant Design components. 
 ### Angular (basics)
-  [HackerNews](https://github.com/jemil-c-137/newHack) - simple app whith latest news from front page of Hacker News.
+  - [HackerNews](https://github.com/jemil-c-137/newHack) - simple app whith latest news from front page of Hacker News.
 ### JavaScript
 - 🃏 [Guess the Bug card game](https://codesandbox.io/s/goofy-torvalds-ch1cz), Here is the code: [GitHub](https://github.com/jemil-c-137/Card-Game)
   - I've used vanilla **JavaScript** ES6 syntax
