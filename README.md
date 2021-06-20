@@ -30,9 +30,12 @@ pss... click to check 👇
 [<img align="left" alt="SASS" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/288_Sass-512.png" />][sassLayout]
 
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsProject]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactRedux]
+[<img align="left" alt="TypeScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" />][angular]
 
-[<img align="left" alt="Terminal" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/redux-283024.png" />][reactRedux]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactRedux]
+[<img align="left" alt="Angular" width="26px" src="https://frontendlabepam.github.io/FL6/28_angular1/assets/img/angular-js-logo.png" />][reactRedux]
+
+[<img align="left" alt="Redux" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/redux-283024.png" />][reactRedux]
 
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][profile]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][profile]
@@ -68,3 +71,4 @@ pss... click to check 👇
 [jsProject]: https://codesandbox.io/s/goofy-torvalds-ch1cz
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactRedux]: https://codesandbox.io/s/gifted-mclean-ly2mo
+[angular]:https://github.com/jemil-c-137/newHack
