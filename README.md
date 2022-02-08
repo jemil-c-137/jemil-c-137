@@ -1,5 +1,4 @@
-# Hi there, I'm Jemil 👋
-## I'm a Junior Front-end Developer!
+# Hi there, I'm Jemil, Frontend Developer!👋
 
 ## My last projects:
   ### REACT
