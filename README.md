@@ -16,6 +16,7 @@ pss... click to check 👇
 [<img align="left" alt="Redux" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/redux-283024.png" />][reactRedux]
 
 [<img align="left" alt="GraphQL" width="82px" src="https://user-images.githubusercontent.com/60106682/153768624-0965e2e4-96a3-406d-bdf8-7c1fc0d1aed8.png" />][graphql]
+[<img align="left" alt="MongoDB" width="82px" src="https://user-images.githubusercontent.com/60106682/153768751-1c5b9f35-e2fa-428f-93e8-b08e4c536b8c.png" />][graphql]
 
 
 <br />
