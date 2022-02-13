@@ -2,7 +2,7 @@
 
 ## My last projects:
   ### REACT
-- 🎥 [FilmSearch](https://github.com/jemil-c-137/jemil-c-137/filmsearch)
+- 🎥 [FilmSearch](https://github.com/jemil-c-137/filmsearch)
   Fullstack application with your films list (smth like IMDB)
   * Client: **Typescript**, **React**, **GrapgQL** (apollo/client), **React-hook-form**
   * Server: **GraphQL** (apollo-server-express), **MongoDB**, **Cloudinary**
