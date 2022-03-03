@@ -26,7 +26,7 @@ pss... click to check 👇
   ### REACT
 - 🎥 [FilmSearch](https://github.com/jemil-c-137/filmsearch)
   Fullstack application with your films list (smth like IMDB)
-  * Client: **Typescript**, **React**, **GrapgQL** (apollo/client), **React-hook-form**, **Material UI**
+  * Client: **Typescript**, **React**, **GraphQL** (apollo/client), **React-hook-form**, **Material UI**
   * Server: **GraphQL** (apollo-server-express), **MongoDB**, **Cloudinary**
 - 👽 [Rick and Morty Memory Card Game](https://codesandbox.io/s/gifted-mclean-ly2mo), Here is the code: [GitHub](https://github.com/jemil-c-137/react-cards)
   * I've used **React** for UI and **Redux** for a state-managment. (old one, my first project with class components)
