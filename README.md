@@ -7,6 +7,7 @@ pss... click to check 👇
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][siteLayout]
 [<img align="left" alt="SASS" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/288_Sass-512.png" />][sassLayout]
 
+
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsProject]
 [<img align="left" alt="TypeScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" />][graphql]
 
@@ -17,7 +18,7 @@ pss... click to check 👇
 
 [<img align="left" alt="GraphQL" width="82px" src="https://user-images.githubusercontent.com/60106682/153768624-0965e2e4-96a3-406d-bdf8-7c1fc0d1aed8.png" />][graphql]
 [<img align="left" alt="MongoDB" width="82px" src="https://user-images.githubusercontent.com/60106682/153768751-1c5b9f35-e2fa-428f-93e8-b08e4c536b8c.png" />][graphql]
-
+[<img align="left" alt="Redux" width="26px" src="https://user-images.githubusercontent.com/60106682/159565179-de948f73-466c-4aef-801b-62be034aa38e.png" />][gatsby]
 
 <br />
 <br />
@@ -32,8 +33,9 @@ pss... click to check 👇
   * I've used **React** for UI and **Redux** for a state-managment. (old one, my first project with class components)
 - 🎠 [React Carousel(Slider) Component](https://jemil-c-137.github.io/carousel/), Here is the code: [GitHub](https://github.com/jemil-c-137/carousel)
   * React, configured Webpack
-- ⏩[Youtube videos seach) Component](https://github.com/jemil-c-137/sidbevYoutube)
-  * React, Redux, Axios, Node(mock server), Ant Design components. 
+### Gatsby
+ - 📝[Jemil-blog](https://cosmic-rolypoly-5bbaa3.netlify.app/), Here is the code: [GitHub](https://github.com/jemil-c-137/filmsearch)
+   * Gatsby, DatoCMS, StyledComponets
 ### Angular (basics)
   - [HackerNews](https://github.com/jemil-c-137/newHack) - simple app whith latest news from front page of Hacker News.
 ### JavaScript
@@ -78,3 +80,4 @@ pss... click to check 👇
 [reactRedux]: https://codesandbox.io/s/gifted-mclean-ly2mo
 [angular]:https://github.com/jemil-c-137/newHack
 [graphql]:https://github.com/jemil-c-137/filmsearch
+[gatsby]:https://github.com/jemil-c-137/jemil-blog
