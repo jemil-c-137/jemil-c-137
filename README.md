@@ -55,10 +55,7 @@ pss... click to check 👇
 
 ### Connect with me:
 
-[<img align="left" alt="i_am_jemil" width="22px" src="https://image.flaticon.com/icons/png/512/25/25231.png" />][profile]
 [<img align="left" alt="i_am_jemil | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="i_am_jemil | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="i_am_jemil | Instagram" width="22px" src="https://cdn.icon-icons.com/icons2/1121/PNG/512/1486147202-social-media-circled-network10_79475.png" />][vk]
 [<img align="left" alt="i_am_jemil | Instagram" width="22px" src="https://cdn1.iconfinder.com/data/icons/andriod-app-logo/32/icon_telegram-512.png" />][telegram]
 
 <br />
