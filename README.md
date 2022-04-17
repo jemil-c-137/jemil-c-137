@@ -12,7 +12,6 @@ pss... click to check 👇
 [<img align="left" alt="TypeScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" />][graphql]
 
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactRedux]
-[<img align="left" alt="Angular" width="26px" src="https://frontendlabepam.github.io/FL6/28_angular1/assets/img/angular-js-logo.png" />][reactRedux]
 
 [<img align="left" alt="Redux" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/redux-283024.png" />][reactRedux]
 
