@@ -36,8 +36,6 @@ pss... click to check 👇
 ### Gatsby
  - 📝[Jemil-blog](https://cosmic-rolypoly-5bbaa3.netlify.app/), Here is the code: [GitHub](https://github.com/jemil-c-137/filmsearch)
    * Gatsby, DatoCMS, StyledComponets
-### Angular (basics)
-  - [HackerNews](https://github.com/jemil-c-137/newHack) - simple app whith latest news from front page of Hacker News.
 ### JavaScript
 - 🃏 [Guess the Bug card game](https://codesandbox.io/s/goofy-torvalds-ch1cz), Here is the code: [GitHub](https://github.com/jemil-c-137/Card-Game)
   - I've used vanilla **JavaScript** ES6 syntax
