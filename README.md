@@ -32,6 +32,9 @@ pss... click to check 👇
   * I've used **React** for UI and **Redux** for a state-managment. (old one, my first project with class components)
 - 🎠 [React Carousel(Slider) Component](https://jemil-c-137.github.io/carousel/), Here is the code: [GitHub](https://github.com/jemil-c-137/carousel)
   * React, configured Webpack
+### Next (SSG)
+ - 📝[Signy](https://signy.vercel.app/), Here is the code: [GitHub](https://github.com/jemil-c-137/signy)
+   * Next, DatoCMS, Tailwind CSS
 ### Gatsby
  - 📝[Jemil-blog](https://cosmic-rolypoly-5bbaa3.netlify.app/), Here is the code: [GitHub](https://github.com/jemil-c-137/filmsearch)
    * Gatsby, DatoCMS, StyledComponets
