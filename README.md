@@ -66,10 +66,7 @@ pss... click to check 👇
 
 
 [profile]: https://github.com/jemil-c-137
-[instagram]: https://instagram.com/i_am_jemil
 [linkedin]: https://www.linkedin.com/in/jemil-suleimanov-559852116/
-[vk]: https://vk.com/i_am_jemil
-[telegram]: https://t.me/i_am_jemil
 [siteLayout]: https://codesandbox.io/s/gallant-rosalind-v09yh
 [sassLayout]: https://jemil-c-137.github.io
 [jsProject]: https://codesandbox.io/s/goofy-torvalds-ch1cz
