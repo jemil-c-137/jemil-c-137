@@ -55,8 +55,7 @@ pss... click to check 👇
 
 ### Connect with me:
 
-[<img align="left" alt="i_am_jemil | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="i_am_jemil | Instagram" width="22px" src="https://cdn1.iconfinder.com/data/icons/andriod-app-logo/32/icon_telegram-512.png" />][telegram]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
