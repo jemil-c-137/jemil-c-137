@@ -1,7 +1,6 @@
 # Hi there, I'm Jemil, Frontend Developer!👋
 
 ## Languages and Tools I'm using:
-pss... click to check 👇
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][siteLayout]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][siteLayout]
@@ -23,6 +22,10 @@ pss... click to check 👇
 <br />
 
 ## My last projects:
+  ### Vue
+- 🪑 [Hekto](https://jemil-c-137.github.io/hekto/) (not finished yet, work in progress)
+   Vue application online shops of furniture
+
   ### REACT
 - 🎥 [FilmSearch](https://github.com/jemil-c-137/filmsearch)
   Fullstack application with your films list (smth like IMDB)
