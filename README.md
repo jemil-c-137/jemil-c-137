@@ -2,7 +2,7 @@
 <img align='right' src="https://github.com/jemil-c-137/jemil-c-137/blob/master/photo_2024-10-16_21-24-25.jpg?raw=true" width="230">  <!-- Replace with your image URL -->
 <p><em>Frontend Developer passionate about building dynamic web applications and exploring AI in tech.</em></p>
 
-### <img src="https://github.com/jemil-c-137/jemil-c-137/blob/master/Ryan.gif?raw=true" width="50"> About me...
+### About me...
 
 ```javascript
 const jemil = {
