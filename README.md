@@ -29,7 +29,8 @@ const jemil = {
             "Styled Components", 
             "Material UI", 
             "Bootstrap", 
-            "Sass"
+            "Sass",
+            "Playwright"
         ],
         stateManagement: ["Redux", "Apollo"],
         methodologies: ["JAMStack", "Responsive Design"],
